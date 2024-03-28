@@ -1,2 +1,0 @@
-# Fullstack open
- Excersises
